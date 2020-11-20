@@ -6962,4 +6962,9 @@ h1, h2, h3, h4 {
   display: none;
 }
 
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
 /*# sourceMappingURL=main.css.map */
