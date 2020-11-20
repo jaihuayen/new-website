@@ -6934,7 +6934,6 @@ h1, h2, h3, h4 {
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  display: block;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -6948,15 +6947,10 @@ h1, h2, h3, h4 {
   color: black;
 }
 
-/* Add an active class to highlight the current page */
+/* Add a color to the active/current link */
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
-}
-
-/* Hide the link that should open and close the topnav on small screens */
-.topnav .icon {
-  display: none;
 }
 
 /*# sourceMappingURL=main.css.map */
